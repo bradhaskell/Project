@@ -1,14 +1,14 @@
-##FitFlow - A Personalized Workout and Nutrition Plan 
+## FitFlow - A Personalized Workout and Nutrition Plan 
 
-#Overview
-Welcome to FitFlow, a personalized workout and diet planner designed to tailor to YOUR personal prefernece, goals, and experience. Through various clustering, recommending algorithms, data analysis, and user input, FitFlow gives you the blueprint to build a better you. 
+# Overview
+Welcome to FitFlow, a personalized workout and diet planner designed to tailor to YOUR personal preference, goals, and experience. Through various clustering, recommending algorithms, data analysis, and user input, FitFlow gives you the blueprint to build a better you. 
 
-User Registration
+
 # Imports
 
 # Data sets
 
-#Structure
+# Structure
 fitfusion/
 │
 ├── backend/
