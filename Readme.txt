@@ -1,13 +1,31 @@
-# Read Me
-### Fit Flow 
-THIS PROJECT IS AMAZING AND YOU LOVE IT AND YOU WANT TO GIVE US A JOB!!! 
+####FitFlow - A Personalized Workout and Nutrition Plan 
 
-## Objective 
+##Overview
+Welcome to FitFlow, a personalized workout and diet planner designed to tailor to YOUR personal prefernece, goals, and experience. Through various clustering, recommending algorithms, data analysis, and user input, FitFlow gives you the blueprint to build a better you. 
 
-## How it Works
-
+User Registration
 # Imports
 
 # Data sets
 
-# Lists
+##Structure
+fitfusion/
+│
+├── backend/
+│   ├── app.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── clustering.py
+│   │   ├── recommendation.py
+│   ├── static/
+│   └── templates/
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   └── ...
+│
+├── data/
+├── requirements.txt
+└── README.md
